@@ -7,10 +7,13 @@ Watch the trainings
 
 Treinamento Builder Cliente | Tecnologia Benner
 https://www.youtube.com/playlist?list=PLf5su5UyG6OY
+
 Treinamento WES Cliente | Tecnologia Benner
-youtube.com/playlist?list=PLQtkpGCS0Wbs&si=hqSEhWkfWCG0dNVF
+https://www.youtube.com/playlist?list=PLQtkpGCS0Wbs
+
 Treinamento BServer | Tecnologia Benner
 https://www.youtube.com/playlist?list=PLO3AKILcxuqU
+
 Treinamento Server Manager | Tecnologia Benner
 https://www.youtube.com/playlist?list=PLZG-KII5ZJ1Q
 
